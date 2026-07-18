@@ -62,27 +62,10 @@
 
 ---
 
-## 🏆 GitHub Badges & Achievements
-<p align="left">
-  <!-- Pull Shark Badge -->
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="GitHub Achievements" height="150" />
-  </a>
-</p>
-
---- 
-
-## 📊 GitHub Stats 
-![Selma's GitHub stats](https://vercel.app) 
-
-### 🔥 Top Languages 
-![Top Langs](https://vercel.app) 
-
---- 
-
 ## 🌐 Connect With Me 
-[![LinkedIn](https://shields.ioLinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/selma-nghinamanu/) 
-[![Portfolio](https://shields.ioPortfolio-FF69B4?logo=About.me&logoColor=white&style=for-the-badge)](https://ndillylifejournal.blogspot.com/) 
+[![LinkedIn](https://www.linkedin.com/in/selma-nghinamanu/) 
+[![Blog](https://ndillylifejournal.blogspot.com/) 
+[![Portfolio](https://netlify.app)
 
 --- 
 
