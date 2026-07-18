@@ -1,5 +1,8 @@
 # Welcome
 
+<h1 align="center">Hi, I am Selma</h1>
+
+
 ## 🌸 About Me 
 - 🎓 **3rd-year Computer Science** major
 - 📱 Building mobile & web apps (**React Native**, **Python**, **HTML/CSS**) 
