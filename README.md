@@ -1,19 +1,5 @@
 # Welcome
 
-<p align="right">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
-
-<h1 align="center">Hi there, I'm Selma</h1> 
-
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://demolab.com" alt="Typing Effect" />
-  </a>
-</p>
-
---- 
-
 ## 🌸 About Me 
 - 🎓 **3rd-year Computer Science** major
 - 📱 Building mobile & web apps (**React Native**, **Python**, **HTML/CSS**) 
@@ -31,36 +17,6 @@
 **Other Skills:** UI/UX Design | APIs | Database Management | Project Planning 
 
 --- 
-
-## 📌 Featured Projects 
-<table>
-  <tr>
-    <td>
-      <a href="https://netlify.app">
-        <img src="https://shields.io📸_ITGrl_Website-Visit_Live-FF69B4?style=for-the-badge" alt="ITGrl" />
-      </a>
-    </td>
-    <td>
-      <a href="https://netlify.app">
-        <img src="https://shields.io🗓_Daily_Tracker-Visit_Live-4CAF50?style=for-the-badge" alt="Mindset Tracker" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://netlify.app">
-        <img src="https://shields.io🌐_Personal_Site-Visit_Live-2196F3?style=for-the-badge" alt="Personal Site" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.io">
-        <img src="https://shields.io🌸_Python_Flower-View_Project-9C27B0?style=for-the-badge" alt="Python Flower" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🌐 Connect With Me 
 [![LinkedIn](https://www.linkedin.com/in/selma-nghinamanu/) 
